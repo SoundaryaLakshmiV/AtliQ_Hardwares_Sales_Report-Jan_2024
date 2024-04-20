@@ -1,4 +1,5 @@
 # AtliQ_Hardwares_Sales_Report-Jan_2024
+linkedin post: https://shorturl.at/cuHK5
 1.	Division Level Report:
 Assessing business segments to guide resource allocation and decision-making for improved company performance.
 
